@@ -1,1 +1,26 @@
 # alx-intermediate-frontend
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+    <main>
+      <article>
+        <h1>Article Title</h1>
+        <section>
+          <!-- Content goes here -->
+        </section>
+      </article>
+    </main>
+    <footer>
+      &copy; @copyright
+    </footer>
+  </body>
+</html>
