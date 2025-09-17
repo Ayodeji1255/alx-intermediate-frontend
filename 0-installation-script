@@ -1,0 +1,8 @@
+step 1 : In the terminal i entered 
+npm install -g sass
+
+Step 2: I Installed Sass Globally
+
+To make sure everything worked, I typed the following command and press Enter:
+
+sass --version
